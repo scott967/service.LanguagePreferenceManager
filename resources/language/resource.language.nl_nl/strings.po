@@ -1,0 +1,266 @@
+# Kodi Media Center language file
+# Addon Name: Language Preference Manager
+# Addon id: service.languagepreferencemanager
+# Addon Provider: ace20022
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: https://forum.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Team-Kodi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30100"
+msgid "Languages"
+msgstr "Talen"
+
+msgctxt "#30101"
+msgid "Primary Language"
+msgstr "Primaire Taal"
+
+msgctxt "#30102"
+msgid "Secondary Language"
+msgstr "Secundaire Taal"
+
+msgctxt "#30103"
+msgid "Third Language"
+msgstr "Derde Taal"
+
+msgctxt "#30104"
+msgid "Audio Preferences"
+msgstr "Audio Voorkeuren"
+
+msgctxt "#30105"
+msgid "Subtitle Preferences"
+msgstr "Ondertitel Voorkeuren"
+
+msgctxt "#30106"
+msgid "Conditional Subtitle Preferences"
+msgstr "Voorwaardelijke Ondertitel Voorkeuren"
+
+msgctxt "#30107"
+msgid "Enable Preference"
+msgstr "Activeer Voorkeur"
+
+msgctxt "#30108"
+msgid "Enable Language Preference Manager"
+msgstr "Activeer Taal Voorkeur Manager"
+
+msgctxt "#30109"
+msgid "Pause while evaluating preferences"
+msgstr "Pauze tijdens evaluatie voorkeuren"
+
+msgctxt "#30110"
+msgid "If audio language is "
+msgstr "Als audiotaal is"
+
+msgctxt "#30111"
+msgid "then display subtitles with language"
+msgstr "Toon dan ondertitels met taal"
+
+msgctxt "#30112"
+msgid "Delay the evaluation by the following value [ms]"
+msgstr "Vertraag evaluatie met de volgende waarde [ms]"
+
+msgctxt "#30113"
+msgid "Turn on subtitles if a subtitle prefrence matched"
+msgstr "Inschakelen ondertitels als een ondertitel voorkeur matched"
+
+msgctxt "#30114"
+msgid "Turn off subtitles if no subtitle prefrence matched"
+msgstr "Uitschakelen ondertitels als er geen ondertitel voorkeur matched"
+
+msgctxt "#30115"
+msgid "Advanced/Custom settings"
+msgstr "Geavanceerde/Persoonlijke instellingen"
+
+msgctxt "#30116"
+msgid "Try to set the audio and/or subtitle track from the filename first"
+msgstr "Probeer de audio en/of ondertitel uit de bestandsnaam eerst"
+
+msgctxt "#30117"
+msgid "Regular expression for filename based preferences"
+msgstr "Reguliere expressie voor bestandsnaam op basis van voorkeuren"
+
+msgctxt "#30201"
+msgid "Albanian"
+msgstr "Albanian"
+
+msgctxt "#30202"
+msgid "Arabic"
+msgstr "Arabic"
+
+msgctxt "#30203"
+msgid "Belarusian"
+msgstr "Belarusian"
+
+msgctxt "#30204"
+msgid "Bosnian (Latin)"
+msgstr "Bosnian (Latin)"
+
+msgctxt "#30205"
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+msgctxt "#30206"
+msgid "Catalan"
+msgstr "Catalan"
+
+msgctxt "#30207"
+msgid "Chinese"
+msgstr "Chinese"
+
+msgctxt "#30208"
+msgid "Croatian"
+msgstr "Croatian"
+
+msgctxt "#30209"
+msgid "Czech"
+msgstr "Czech"
+
+msgctxt "#30210"
+msgid "Danish"
+msgstr "Danish"
+
+msgctxt "#30211"
+msgid "Dutch"
+msgstr "Dutch"
+
+msgctxt "#30212"
+msgid "English"
+msgstr "English"
+
+msgctxt "#30213"
+msgid "Estonian"
+msgstr "Estonian"
+
+msgctxt "#30214"
+msgid "Finnish"
+msgstr "Finnish"
+
+msgctxt "#30215"
+msgid "French"
+msgstr "French"
+
+msgctxt "#30216"
+msgid "German"
+msgstr "German"
+
+msgctxt "#30217"
+msgid "Greek"
+msgstr "Greek"
+
+msgctxt "#30218"
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgctxt "#30219"
+msgid "Hindi"
+msgstr "Hindi"
+
+msgctxt "#30220"
+msgid "Hungarian"
+msgstr "Hungarian"
+
+msgctxt "#30221"
+msgid "Icelandic"
+msgstr "Icelandic"
+
+msgctxt "#30222"
+msgid "Indonesian"
+msgstr "Indonesian"
+
+msgctxt "#30224"
+msgid "Italian"
+msgstr "Italian"
+
+msgctxt "#30225"
+msgid "Japanese"
+msgstr "Japanese"
+
+msgctxt "#30226"
+msgid "Korean"
+msgstr "Korean"
+
+msgctxt "#30227"
+msgid "Latvian"
+msgstr "Latvian"
+
+msgctxt "#30228"
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+msgctxt "#30229"
+msgid "Macedonian"
+msgstr "Macedonian"
+
+msgctxt "#30230"
+msgid "Norwegian"
+msgstr "Norwegian"
+
+msgctxt "#30232"
+msgid "Polish"
+msgstr "Polish"
+
+msgctxt "#30233"
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgctxt "#30234"
+msgid "Portuguese (Brazil)"
+msgstr "Portuguese (Brazil)"
+
+msgctxt "#30235"
+msgid "Romanian"
+msgstr "Romanian"
+
+msgctxt "#30236"
+msgid "Russian"
+msgstr "Russian"
+
+msgctxt "#30237"
+msgid "SerbianLatin"
+msgstr "SerbianLatin"
+
+msgctxt "#30238"
+msgid "Slovak"
+msgstr "Slovak"
+
+msgctxt "#30239"
+msgid "Slovenian"
+msgstr "Slovenian"
+
+msgctxt "#30240"
+msgid "Spanish"
+msgstr "Spanish"
+
+msgctxt "#30242"
+msgid "Swedish"
+msgstr "Swedish"
+
+msgctxt "#30243"
+msgid "Thai"
+msgstr "Thai"
+
+msgctxt "#30244"
+msgid "Turkish"
+msgstr "Turkish"
+
+msgctxt "#30245"
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+msgctxt "#30246"
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+msgctxt "#30247"
+msgid "Farsi"
+msgstr "Farsi"
+
