@@ -18,4 +18,6 @@
 		<disclaimer lang="en_GB">For bugs, requests or general questions visit the Language Preference Manager thread on the Kodi forum.</disclaimer>
 		<platform>all</platform>
 	</extension>
+	<news>Updated with changes required for Kodi 19 / Python 3</news>
+	<assets>resources/icon.png</assets>
 </addon>
