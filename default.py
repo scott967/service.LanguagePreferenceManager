@@ -44,6 +44,7 @@ class LangPref_Monitor( xbmc.Monitor ):
 class Main:
     def __init__( self ):
         self._init_vars()
+        monitor = xbmc.Monitor()
         if (not settings.service_enabled):
             log(LOG_INFO, "Service not enabled")
 
@@ -55,8 +56,8 @@ class Main:
         self.Player = LangPrefMan_Player()
 
     def _daemon( self ):
-        while (not xbmc.abortRequested):
-            xbmc.sleep(500)
+        while (not self.monitor().abortRequested()):
+            self.monitor.waitForAbort(1)
             
 
 class LangPrefMan_Player(xbmc.Player) :

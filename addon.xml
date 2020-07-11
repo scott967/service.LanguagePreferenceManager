@@ -2,7 +2,7 @@
 <addon
 	id="service.languagepreferencemanager"
 	name="Language Preference Manager"
-	version="0.0.7-Matrix"
+	version="0.0.7+matrix.1"
 	provider-name="ace20022/scott967"
 	>
 	<requires>
@@ -17,7 +17,10 @@
 		<description lang="en_GB">Sets the audio and subtitle track according to your language preferences</description>
 		<disclaimer lang="en_GB">For bugs, requests or general questions visit the Language Preference Manager thread on the Kodi forum.</disclaimer>
 		<platform>all</platform>
+		<news>Updated with changes required for Kodi 19 / Python 3</news>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 	</extension>
-	<news>Updated with changes required for Kodi 19 / Python 3</news>
-	<assets>resources/icon.png</assets>
+
 </addon>

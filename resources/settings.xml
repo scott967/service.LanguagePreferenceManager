@@ -63,7 +63,7 @@
 			</group>
 			<group id="2">
 				<setting id="AudioLang01" type="integer" label="30101">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -112,8 +112,7 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
@@ -121,7 +120,7 @@
 			</group>
 			<group id="3">
 				<setting id="AudioLang02" type="integer" label="30102">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -170,8 +169,7 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
@@ -179,7 +177,7 @@
 			</group>
 			<group id="4">
 				<setting id="AudioLang03" type="integer" label="30103">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -228,8 +226,7 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
@@ -256,7 +253,7 @@
 			</group>
 			<group id="2">
 				<setting id="SubLang01" type="integer" label="30101">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -305,16 +302,15 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
 				</setting>
 			</group>
 			<group id="3">
-				<setting id="SubLang02" type="integer" label="30102">
-					<default>47</default>
+				<setting id="SubLang02" type="integer" label="3010">
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -363,8 +359,7 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
@@ -372,7 +367,7 @@
 			</group>
 			<group id="4">
 				<setting id="SubLang03" type="integer" label="30103">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -421,8 +416,7 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
@@ -449,7 +443,7 @@
 			</group>
 			<group id="2">
 				<setting id="CondAudioLang01" type="integer" label="30110">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -498,14 +492,13 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
 				</setting>
 				<setting id="CondSubLang01" type="integer" label="30111">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -554,8 +547,7 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
@@ -563,7 +555,7 @@
 			</group>
 			<group id="3">
 				<setting id="CondAudioLang02" type="integer" label="30110">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -612,14 +604,13 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
 				</setting>
 				<setting id="CondSubLang02" type="integer" label="30111">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -668,8 +659,7 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
@@ -677,7 +667,7 @@
 			</group>
 			<group id="4">
 				<setting id="CondAudioLang03" type="integer" label="30110">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -726,14 +716,13 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
 				</setting>
 				<setting id="ConsSubLang03" type="integer" label="30111">
-					<default>47</default>
+					<default>46</default>
 					<constraints>
 						<options>
 							<option label="30201">0</option>
@@ -782,8 +771,7 @@
 							<option label="30244">43</option>
 							<option label="30245">44</option>
 							<option label="30246">45</option>
-							<option label="30247">46</option>
-							<option label="30248">47</option>
+							<option label="30248">46</option>
 						</options>
 					</constraints>
 					<control type="spinner" format="string"/>
