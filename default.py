@@ -1,5 +1,5 @@
 import os, sys, re
-import xbmc, xbmcaddon
+import xbmc, xbmcaddon, xbmcvfs
 
 import json as simplejson
 
@@ -8,8 +8,8 @@ __addonversion__ = __addon__.getAddonInfo('version')
 __addonid__ = __addon__.getAddonInfo('id')
 __addonname__ = __addon__.getAddonInfo('name')
 __addonPath__ = __addon__.getAddonInfo('path')
-__addonResourcePath__ = xbmc.translatePath(os.path.join(__addonPath__, 'resources', 'lib'))
-__addonIconFile__ = xbmc.translatePath(os.path.join(__addonPath__, 'icon.png'))
+__addonResourcePath__ = xbmcvfs.translatePath(os.path.join(__addonPath__, 'resources', 'lib'))
+__addonIconFile__ = xbmcvfs.translatePath(os.path.join(__addonPath__, 'icon.png'))
 sys.path.append(__addonResourcePath__)
 
 from langcodes import *
